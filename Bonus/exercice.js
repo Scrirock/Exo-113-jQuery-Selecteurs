@@ -1,1 +1,1 @@
-$("selecteur").hide();
+$("tr:nth-child(odd)").hide();
